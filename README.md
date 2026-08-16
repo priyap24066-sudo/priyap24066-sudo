@@ -24,9 +24,6 @@ I am a BCA graduate and an aspiring Python Full Stack Developer interested in bu
 
 ### 📂 Projects
 
-* Employee Management System
-* Registration Form
-* Web Development Projects
 * Academic / Final Year Project
 
 ### 🎯 Career Goal
