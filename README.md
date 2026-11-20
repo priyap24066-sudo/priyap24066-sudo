@@ -1,6 +1,6 @@
 # Hi, I'm Priya Mani 👋
 
-### 🐍 Python Full Stack Developer | BCA Graduate
+### Python Full Stack Developer | BCA Graduate
 
 I am a BCA graduate and an aspiring Python Full Stack Developer interested in building responsive and user-friendly web applications.
 
